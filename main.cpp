@@ -552,7 +552,7 @@ int main() {
     polyscope::init();
 
     int width, height, channels;
-    const char* imagepath = "../data/Gradient2.png"; 
+    const char* imagepath = "../data/cat.png"; 
     Eigen::MatrixXd image = loadImage(imagepath, width, height, channels);
     // std::cout << "Image loaded with dimensions: " << height << "x" << width << std::endl;
 
