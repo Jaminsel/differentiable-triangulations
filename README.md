@@ -1,11 +1,10 @@
 # Differentiable Triangulations
 
-**Bachelor Thesis - TU Berlin**
-This is the implemenatation of the Bachelor Thesis _“Differentiable Triangulations through Smoothing in the Space of Weighted Delaunay Triangulations”_ . 
+This is the implemenatation of the **Bachelor Thesis** _“Differentiable Triangulations through Smoothing in the Space of Weighted Delaunay Triangulations”_ . 
 
 Triangulations are made differentiable by smoothing connectivity changes (flips) in the space of weighted Delaunay triangulations. The method enables gradient-based optimization of both vertex positions and mesh connectivity.
 
-![Example](cat_example.png)
+![](data/cat_example.png)
 
 ## Build and Run (Windows)
 
